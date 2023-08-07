@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/priceheatmap/static/css/main.840afa67.css",
-    "main.js": "/priceheatmap/static/js/main.b1da165c.js",
+    "main.js": "/priceheatmap/static/js/main.513b05cd.js",
     "static/js/483.f9040995.chunk.js": "/priceheatmap/static/js/483.f9040995.chunk.js",
     "static/js/787.9e9f4ffd.chunk.js": "/priceheatmap/static/js/787.9e9f4ffd.chunk.js",
     "index.html": "/priceheatmap/index.html",
     "main.840afa67.css.map": "/priceheatmap/static/css/main.840afa67.css.map",
-    "main.b1da165c.js.map": "/priceheatmap/static/js/main.b1da165c.js.map",
+    "main.513b05cd.js.map": "/priceheatmap/static/js/main.513b05cd.js.map",
     "483.f9040995.chunk.js.map": "/priceheatmap/static/js/483.f9040995.chunk.js.map",
     "787.9e9f4ffd.chunk.js.map": "/priceheatmap/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.840afa67.css",
-    "static/js/main.b1da165c.js"
+    "static/js/main.513b05cd.js"
   ]
 }
